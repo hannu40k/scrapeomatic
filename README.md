@@ -10,6 +10,14 @@ User can also do a recursive search based on obtained article abstracts .
 
 Check provided wide_presentation.pdf for further information.
 
+## Currently supported databases
+
+https://finna.fi/
+
+https://doaj.org/
+
+https://arxiv.org/
+
 ## Dependencies
 
 python >=3.5
