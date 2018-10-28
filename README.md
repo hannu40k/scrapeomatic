@@ -16,8 +16,8 @@ python >=3.5
 
 ## Installation
 
-	git clone https://github.com/hjhsalo/widehackathon
-	cd widehackathon
+	git clone https://github.com/quantum-lizard-brains/scrapeomatic
+	cd scrapeomatic
 	python3 -m venv venv
 	source venv/bin/activate
 	pip install -r requirements.txt
